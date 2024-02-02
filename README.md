@@ -13,14 +13,6 @@ AMG has included the different pages
 
 index/home page
 
-about page
-
-contact page
-
-category page
-
-download page
-
 all works (portfolio) page
 
 single page
